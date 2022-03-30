@@ -35,6 +35,10 @@ Brainstorm
   - Show history of changes
   - Walk through what can be done (what I have done)
 
+- QMK foo
+  - Show qmk code
+  - Maybe do something cool in additional code (e.g. Tick Tac Toe)
+
 - Layout optimization
   - Basic optimization principles
   - How cost functions can be built
