@@ -1,0 +1,72 @@
+
+Left Keyboard:
+Ctrl x		Cut
+Ctrl v		Paste
+Ctrl l		???
+Ctrl c		Copy
+Ctrl w		???
+
+Ctrl u		???
+Ctrl i		???
+Ctrl a		Select all
+Ctrl e		???
+Ctrl o		???
+
+Ctrl ü		???
+Ctrl ö		???
+Ctrl ä		???
+Ctrl p		???
+Ctrl z		Undo
+
+Right Keyboard:
+Ctrl k		???
+Ctrl h		Replace
+Ctrl g		Goto Line
+Ctrl f		Find
+Ctrl q		???
+
+Ctrl s		Save
+Ctrl n		New File
+Ctrl r		???
+Ctrl t		???
+Ctrl d		???
+Ctrl y		???
+
+Ctrl b		???
+Ctrl m		???
+Ctrl ,		???
+Ctrl .		???
+Ctrl j		???
+
+Symbols Layer:
+€_[]^
+\/{}*
+#$|~`
+
+!<>=&
+?()-:@
++%"';
+
+
+Save
+Cut
+Copy
+Paste
+Undo
+Redo
+Goto Line
+Goto File
+Find
+Replace
+Refactor
+Toggle Terminal
+Toggle Terminal Focus
+
+Open New Window Pane
+Switching between the panes
+
+Common VS Code shortcuts
+Zen mode (don't need)
+Command Palette
+Search files
+Delete word

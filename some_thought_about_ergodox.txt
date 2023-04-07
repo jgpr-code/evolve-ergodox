@@ -1,0 +1,61 @@
+base_layer:
+xvlcw khgfq
+uiaeo snrtd
+bmjpz _,.:y
+
+symbol layer (€ and especially § don't really matter):
+€§[]^ !<>=&
+\/{}* ?()-@
+#$|~` +%"';
+
+corresponding:
+[] {} <> () \/
+&| +- "' ?! *&
+
+very uncommon: ~€`§
+uncommon: %#^@$
+common: <>[]\/&|;
+very common: (){}*+-=?!"'
+
+bigrams: [] () {} <> += -= -> != <= >=
+
+&|[]\ /<>;X
+-={}* +()?! "'
+~€`§X %#^@$
+
+TODO: crawler through github for symbol frequencies and symbol bigram frequencies
+
+
+https://stackoverflow.com/questions/3421532/frequency-of-symbols-in-programming-languages
+_ 2.550
+* 1.769
+, 1.565
+. 1.512
+) 1.373
+( 1.372
+; 1.276
+- 1.176
+= 1.039
+/ 0.718
+> 0.587
+" 0.376
+{ 0.303
+& 0.237
+} 0.210
+: 0.192
++ 0.182
+# 0.175
+] 0.163
+[ 0.163
+< 0.118
+% 0.105
+! 0.102
+' 0.101
+| 0.098
+? 0.022
+@ 0.009
+$ 0.005
+^ 0.003
+~ 0.002
+
+special german(/shortcuts) layer: üöäß evtl. shortcuts
